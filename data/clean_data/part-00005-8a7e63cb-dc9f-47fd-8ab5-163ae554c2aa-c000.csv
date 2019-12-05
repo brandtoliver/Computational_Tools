@@ -1,0 +1,484 @@
+id,country,city,neighbourhood,property_type,price,review_scores_rating
+8141428,Sweden,Stockholm,Skarpnäck,House,$998.00,97
+36783732,Sweden,Norrmalm,Norrmalm,Hostel,"$4,999.00",93
+3202106,Sweden,Stockholm,Bromma,House,"$1,947.00",100
+18937080,Sweden,Stockholm,Södermalm,Apartment,"$1,203.00",100
+9968910,Norway,Oslo,Sagene,Apartment,"$1,199.00",100
+32585614,Sweden,Bromma,Bromma,Serviced apartment,$430.00,80
+1437865,Norway,Oslo,Nordstrand,House,$817.00,100
+16397964,Sweden,Stockholm,Kungsholmen,Apartment,$704.00,95
+17647896,Sweden,Stockholm,Enskede-Årsta-Vantör,Apartment,$802.00,100
+19425699,Sweden,Östermalm,Östermalm,Apartment,$988.00,100
+30883760,Sweden,Stockholm,Södermalm,Apartment,"$1,556.00",98
+10100769,Sweden,Stockholm,Bromma,House,$450.00,98
+16714619,Sweden,Stockholm,Södermalm,Apartment,"$1,800.00",99
+35539236,Sweden,Kungsholmen,Kungsholmen,Apartment,"$1,301.00",100
+23990875,Sweden,Södermalm,Södermalm,Apartment,$900.00,96
+24027396,Sweden,Stockholm,Skarpnäck,Apartment,$499.00,100
+6935581,Sweden,Stockholm,Norrmalm,Apartment,$636.00,100
+3294812,Sweden,Stockholm,Södermalm,Apartment,"$1,203.00",94
+13539689,Sweden,Stockholm,Bromma,Apartment,$401.00,100
+12566255,Norway,Oslo,Majorstuen,Apartment,$736.00,80
+29116604,Sweden,Norrmalm,Norrmalm,Apartment,$998.00,100
+7414744,Sweden,Stockholm,Enskede-Årsta-Vantör,Apartment,$646.00,93
+8837290,Norway,Oslo,Grünerløkka,Apartment,"$1,998.00",100
+30979781,Sweden,Enskede-Årsta-Vantör,Enskede-Årsta-Vantör,Apartment,$245.00,100
+6234004,Sweden,Hässelby,Hässelby-Vällingby,House,"$1,096.00",95
+7284179,Sweden,Stockholm,Norrmalm,Apartment,$597.00,70
+4802747,Sweden,Stockholm,Södermalm,Apartment,$597.00,60
+18706694,Sweden,Stockholm,Rinkeby-Kista,Apartment,$753.00,95
+7346527,Sweden,Stockholm,Södermalm,Apartment,$871.00,85
+32935939,Sweden,Hägersten-Liljeholmen,Hägersten-Liljeholmen,Townhouse,$988.00,93
+24669467,Sweden,Östermalm,Östermalm,Apartment,$753.00,93
+6719086,Sweden,Stockholm,Östermalm,Apartment,"$2,103.00",99
+4307997,Sweden,Stockholm,Södermalm,Apartment,$959.00,89
+34671451,Sweden,Stockholm,Enskede-Årsta-Vantör,Apartment,$675.00,89
+12816176,Sweden,Stockholm,Enskede-Årsta-Vantör,Apartment,$499.00,98
+11836560,Norway,Oslo,Østensjø,Apartment,$554.00,94
+6839527,Sweden,Stockholm,Östermalm,Apartment,$900.00,100
+19734813,Sweden,Farsta,Farsta,House,"$1,605.00",100
+34661344,Sweden,Farsta,Farsta,Apartment,"$1,017.00",100
+19520602,Sweden,Södermalm,Södermalm,Apartment,$558.00,97
+25669446,Sweden,Södermalm,Södermalm,Apartment,"$1,399.00",100
+12489544,Norway,Oslo,Bjerke,Apartment,$899.00,89
+22843282,Sweden,Södermalm,Skarpnäck,Apartment,"$1,751.00",99
+1376880,Norway,Oslo,Grünerløkka,Apartment,$799.00,95
+2129983,Sweden,Stockholm,Hägersten-Liljeholmen,Loft,"$1,096.00",97
+20937940,Sweden,Stockholm,Södermalm,Apartment,"$1,203.00",100
+36840203,Sweden,Östermalm,Östermalm,Apartment,$450.00,80
+37054337,Sweden,Hammarbyhöjden,Skarpnäck,Apartment,$548.00,80
+3609796,Norway,Oslo,Gamle Oslo,Apartment,$835.00,98
+1304431,Sweden,Stockholm,Södermalm,Apartment,"$2,994.00",97
+7675253,Sweden,Stockholm,Kungsholmen,Apartment,$802.00,98
+7425987,Sweden,Stockholm,Skarpnäck,Apartment,$597.00,95
+13234799,Sweden,Stockholm,Södermalm,Loft,"$3,229.00",97
+21678143,Sweden,Östermalm,Norrmalm,Apartment,$401.00,80
+12903857,Norway,Oslo,Grünerløkka,Apartment,$699.00,97
+33521241,Sweden,Norrmalm,Norrmalm,Apartment,$499.00,100
+5889413,Sweden,Stockholm,Enskede-Årsta-Vantör,Apartment,"$2,505.00",80
+12864866,Norway,Oslo,Bjerke,Townhouse,$390.00,100
+37559721,Sweden,Hässelby-Vällingby,Hässelby-Vällingby,Condominium,$147.00,100
+19209380,Sweden,Södermalm,Södermalm,Apartment,"$1,184.00",100
+37959053,Sweden,Stockholm,Hägersten-Liljeholmen,House,$792.00,100
+34152006,Sweden,Enskededalen,Skarpnäck,House,"$2,544.00",100
+13932229,Sweden,Stockholm,Bromma,Apartment,$421.00,80
+12509157,Norway,Oslo,Gamle Oslo,Apartment,"$1,998.00",100
+31063598,Sweden,Älvsjö,Älvsjö,Apartment,$959.00,80
+19940048,Sweden,Södermalm,Södermalm,Apartment,"$2,299.00",92
+7402343,Norway,Oslo,Nordstrand,Apartment,$400.00,97
+13637550,Sweden,Stockholm,Södermalm,Apartment,$851.00,100
+13048954,Sweden,Stockholm,Östermalm,Condominium,"$1,203.00",99
+7243792,Sweden,Stockholm,Norrmalm,Apartment,"$1,399.00",93
+9752622,Norway,Oslo,Majorstuen,Apartment,"$1,299.00",100
+1620816,Norway,Oslo,Ullern,Apartment,$799.00,100
+20656681,Sweden,Stockholm,Farsta,Townhouse,$900.00,100
+7235400,Sweden,Stockholm / Östermalm,Östermalm,Apartment,$704.00,96
+3582554,Norway,Oslo,Gamle Oslo,Apartment,$390.00,95
+1427483,Norway,Oslo,St. Hanshaugen,Apartment,$699.00,96
+4990940,Sweden,Stockholm,Hägersten-Liljeholmen,House,$597.00,100
+7804688,Norway,Oslo,Alna,Townhouse,"$1,090.00",88
+6559429,Norway,Oslo,Grünerløkka,Apartment,$363.00,95
+5759123,Norway,Oslo,Sagene,Apartment,$554.00,93
+17808076,Sweden,Stockholm,Södermalm,Apartment,"$1,497.00",100
+5743587,Sweden,Enskede-Årsta-Vantör,Enskede-Årsta-Vantör,House,"$1,497.00",100
+5281816,Norway,Oslo,Ullern,Apartment,$899.00,100
+25385720,Sweden,Stockholm,Älvsjö,Villa,"$1,996.00",100
+12526612,Norway,Oslo,Sagene,Apartment,"$1,498.00",90
+12032644,Norway,Oslo,St. Hanshaugen,Apartment,"$1,099.00",93
+7230617,Norway,Oslo,St. Hanshaugen,Apartment,$999.00,94
+10677862,Norway,Oslo,Grünerløkka,Guest suite,$499.00,97
+1170766,Sweden,Stockholm,Södermalm,Loft,$753.00,97
+8441444,Norway,Oslo,Nordre Aker,Apartment,"$1,262.00",99
+25944726,Sweden,Östermalm,Östermalm,Apartment,$724.00,93
+35559291,Sweden,Kungsholmen,Kungsholmen,Apartment,"$3,904.00",95
+12914916,Norway,Oslo,Sagene,Apartment,$499.00,80
+10691304,Norway,Oslo,Grünerløkka,Apartment,$854.00,93
+3157347,Sweden,Stockholm,Kungsholmen,Apartment,$646.00,93
+13106986,Norway,Oslo,St. Hanshaugen,Loft,"$1,753.00",83
+12483702,Sweden,Stockholm,Södermalm,Apartment,$704.00,97
+28069971,Sweden,Kungsholmen,Kungsholmen,Apartment,"$2,867.00",87
+36093179,Sweden,Hässelby Strand,Hässelby-Vällingby,Serviced apartment,$753.00,90
+8537594,Norway,Oslo,Sagene,Apartment,$590.00,93
+26035968,Sweden,Skarpnäcks Gård,Skarpnäck,House,"$1,800.00",95
+10020546,Sweden,Stockholm,Södermalm,Apartment,$303.00,87
+18752200,Sweden,Stockholm,Hässelby-Vällingby,Apartment,$205.00,95
+12754281,Sweden,Stockholm,Skarpnäck,Apartment,$802.00,100
+37879536,Sweden,Bromma,Bromma,Apartment,$900.00,100
+23160087,Sweden,Stockholm,Kungsholmen,Apartment,$949.00,92
+21889610,Sweden,Norrmalm,Norrmalm,Apartment,"$1,653.00",90
+16599422,Sweden,Stockholm,Södermalm,Apartment,"$1,203.00",98
+5574577,Sweden,Stockholm,Älvsjö,Bed and breakfast,$753.00,99
+36230568,Sweden,Södermalm,Södermalm,Apartment,"$1,301.00",100
+6727303,Sweden,Stockholm,Östermalm,Apartment,$548.00,67
+8646531,Norway,Oslo,Ullern,Apartment,"$1,689.00",100
+7184829,Sweden,Stockholm,Södermalm,Apartment,$890.00,91
+19831662,Sweden,Södermalm,Södermalm,Apartment,$450.00,100
+36127225,Sweden,Södermalm,Södermalm,Apartment,"$1,223.00",95
+10481135,Norway,Oslo,Majorstuen,Apartment,"$1,653.00",97
+19655587,Sweden,Enskede-Årsta-Vantör,Enskede-Årsta-Vantör,Condominium,$176.00,97
+8246489,Sweden,Stockholm,Södermalm,Condominium,$890.00,100
+12829548,Sweden,Stockholm,Södermalm,Apartment,$704.00,99
+16488924,Sweden,Stockholm,Södermalm,Apartment,$695.00,89
+33307848,Sweden,Kungsholmen,Kungsholmen,Apartment,$499.00,92
+10800801,Norway,Oslo,Grünerløkka,Apartment,$381.00,99
+20892710,Sweden,Hägersten-Liljeholmen,Hägersten-Liljeholmen,Boat,$978.00,97
+30360596,Sweden,Enskede-Årsta-Vantör,Enskede-Årsta-Vantör,Apartment,$450.00,87
+14005187,Sweden,Stockholm,Södermalm,Apartment,$802.00,96
+15870548,Sweden,Stockholm,Hägersten-Liljeholmen,Apartment,$538.00,100
+3659108,Norway,Oslo,Grefsen,Apartment,$699.00,95
+24370260,Sweden,Hässelby-Vällingby,Hässelby-Vällingby,Apartment,$303.00,100
+563916,Norway,Oslo,Majorstuen,Apartment,$454.00,98
+7933737,Norway,Oslo,Sagene,Apartment,$654.00,92
+33870509,Sweden,Norrmalm,Norrmalm,Apartment,$890.00,100
+34940398,Sweden,Lilla Essingen,Kungsholmen,Boat,$998.00,93
+7888273,Norway,Oslo,Sagene,Apartment,$499.00,98
+3536388,Sweden,Stockholm,Södermalm,Apartment,"$1,800.00",97
+10557783,Norway,Oslo,Frogner,Apartment,"$9,081.00",100
+31301631,Sweden,Älvsjö,Älvsjö,Apartment,$548.00,99
+1733651,Sweden,Stockholm County,Södermalm,Apartment,$998.00,90
+3481375,Sweden,Stockholm,Kungsholmen,Apartment,$949.00,98
+19082541,Sweden,Stockholm,Södermalm,Apartment,"$1,301.00",98
+25144510,Sweden,Hägersten-Liljeholmen,Hägersten-Liljeholmen,Villa,$313.00,100
+18594903,Sweden,Stockholm,Hägersten-Liljeholmen,Apartment,$382.00,97
+20826709,Sweden,Bromma,Bromma,Apartment,$391.00,97
+3408743,Sweden,Stockholm,Östermalm,Apartment,"$2,446.00",100
+2170748,Sweden,Stockholm,Södermalm,Apartment,$920.00,100
+33572987,Sweden,Stockholm,Östermalm,Apartment,$724.00,97
+25422127,Sweden,Norrmalm,Norrmalm,Loft,"$1,996.00",100
+13817695,Sweden,Stockholm,Hägersten-Liljeholmen,Apartment,$479.00,80
+10357540,Norway,Oslo,St. Hanshaugen,Apartment,$599.00,97
+12284044,Sweden,Stockholm,Södermalm,Apartment,$988.00,100
+13093216,Norway,Oslo,Grünerløkka,Apartment,$717.00,97
+3375879,Norway,Oslo,Frogner,Apartment,$554.00,100
+543045,Sweden,Stockholm,Södermalm,Apartment,$998.00,95
+13122043,Norway,Oslo,St. Hanshaugen,Apartment,$781.00,93
+1215833,Norway,Oslo,Frogner,Apartment,$400.00,90
+13528857,Sweden,Stockholm,Bromma,House,"$1,047.00",100
+34674080,Sweden,Södermalm,Södermalm,Apartment,"$3,992.00",95
+17169431,Sweden,Stockholm,Norrmalm,Apartment,$900.00,100
+13055073,Sweden,Stockholm,Norrmalm,Apartment,"$1,830.00",95
+33187794,Sweden,Östermalm,Östermalm,Apartment,$900.00,100
+34655463,Sweden,Bromma,Bromma,Apartment,$646.00,100
+13098304,Sweden,Stockholm,Bromma,Apartment,$264.00,99
+36313487,Sweden,Södermalm,Södermalm,Apartment,$900.00,100
+21790990,Sweden,Södermalm,Södermalm,Apartment,$753.00,100
+32413229,Sweden,Kungsholmen,Kungsholmen,Apartment,$900.00,100
+4564769,Norway,Oslo,Grünerløkka,Apartment,"$1,489.00",98
+6883990,Sweden,Stockholm,Södermalm,Apartment,$597.00,97
+36477300,Sweden,Stockholm,Skarpnäck,Apartment,$939.00,100
+14781273,Sweden,Stockholm,Kungsholmen,Apartment,"$1,301.00",97
+21417388,Sweden,Stockholm,Södermalm,Apartment,$978.00,84
+7139901,Norway,Oslo,Grünerløkka,Apartment,$890.00,99
+12884891,Sweden,Stockholm,Södermalm,Apartment,"$1,154.00",98
+24864899,Sweden,Hägersten-Liljeholmen,Hägersten-Liljeholmen,Apartment,$626.00,90
+14723163,Sweden,Stockholm,Södermalm,Apartment,$998.00,95
+14538762,Sweden,Stockholm,Hägersten-Liljeholmen,Apartment,"$3,004.00",100
+32879989,Sweden,Stockholm,Hässelby-Vällingby,House,$802.00,91
+6520437,Norway,Grünerløkka,Grünerløkka,Apartment,$545.00,89
+18368350,Sweden,Stockholm,Östermalm,Apartment,$587.00,98
+28248465,Sweden,Gröndal,Hägersten-Liljeholmen,Apartment,$499.00,100
+36288952,Sweden,Södermalm,Södermalm,Apartment,$773.00,100
+10800406,Norway,Oslo,Frogner,Apartment,"$1,081.00",100
+12100083,Norway,Oslo,St. Hanshaugen,Apartment,"$1,199.00",98
+10264725,Norway,Oslo,Frogner,Villa,$899.00,94
+26161171,Sweden,Kungsholmen,Hägersten-Liljeholmen,Apartment,$900.00,100
+3322677,Norway,Oslo,Gamle Oslo,Apartment,"$1,389.00",90
+7895436,Norway,Oslo,Nordstrand,House,$690.00,100
+22921177,Sweden,Bromma,Bromma,Apartment,$499.00,95
+15644130,Sweden,Stockholm,Norrmalm,Loft,"$1,096.00",93
+25792843,Sweden,Södermalm,Södermalm,Apartment,"$1,096.00",100
+3580442,Norway,Oslo,Nordstrand,Apartment,$708.00,95
+4471871,Sweden,Stockholm,Södermalm,Apartment,$969.00,94
+18039416,Sweden,Stockholm,Skarpnäck,House,"$1,898.00",100
+11563072,Sweden,Stockholm,Hägersten-Liljeholmen,Apartment,"$1,898.00",99
+7818789,Sweden,Stockholm,Bromma,Apartment,$401.00,100
+6849876,Sweden,Stockholm,Östermalm,Apartment,$900.00,96
+36191218,Sweden,Södermalm,Södermalm,Apartment,"$1,653.00",80
+25489743,Sweden,Södermalm,Södermalm,Apartment,$851.00,94
+11459247,Sweden,Stockholm,Bromma,Apartment,$548.00,95
+1698887,Sweden,Stockholm,Södermalm,Apartment,"$1,653.00",100
+13295535,Sweden,Stockholm,Södermalm,Apartment,"$1,096.00",98
+13381705,Sweden,Stockholm,Södermalm,Apartment,"$2,925.00",100
+34898168,Sweden,Bagarmossen,Skarpnäck,Apartment,$646.00,90
+17719406,Sweden,Stockholm,Södermalm,Apartment,"$1,096.00",99
+16969421,Sweden,Stockholm,Södermalm,Apartment,"$1,272.00",90
+15339250,Sweden,Stockholm,Enskede-Årsta-Vantör,Apartment,$704.00,97
+17791429,Sweden,Stockholm,Hägersten-Liljeholmen,Apartment,$519.00,91
+12331709,Norway,Oslo,Gamle Oslo,Apartment,$354.00,94
+38322999,Sweden,Stockholm,Östermalm,Apartment,"$1,017.00",100
+32561597,Sweden,Östermalm,Östermalm,Apartment,$499.00,98
+32867920,Sweden,Spånga-Tensta,Spånga-Tensta,Tiny house,$646.00,97
+22262370,Sweden,Södermalm,Södermalm,Apartment,$499.00,89
+30785514,Sweden,Södermalm,Södermalm,House,$998.00,100
+4179041,Sweden,Stockholm,Skarpnäck,Apartment,$685.00,88
+1648688,Norway,Oslo,Sagene,Apartment,$599.00,96
+3144408,Sweden,Stockholm,Kungsholmen,Apartment,$900.00,85
+15638638,Sweden,Stockholm,Södermalm,Apartment,"$1,487.00",100
+7199730,Norway,Oslo,Majorstuen,Apartment,$536.00,90
+2917350,Norway,Oslo,Sagene,Apartment,$917.00,90
+13824151,Sweden,Stockholm,Östermalm,Apartment,"$1,497.00",94
+4946795,Sweden,Stockholm,Kungsholmen,Apartment,$421.00,96
+6445236,Norway,Oslo,St. Hanshaugen,Boat,$481.00,70
+7199311,Norway,Oslo,Majorstuen,Apartment,$499.00,99
+26483862,Sweden,Östermalm,Östermalm,Apartment,"$1,096.00",93
+32237782,Sweden,Södermalm,Södermalm,Apartment,"$1,497.00",100
+28115365,Sweden,Stockholm,Bromma,Apartment,$391.00,100
+6222587,Norway,Oslo,Gamle Oslo,Apartment,$926.00,98
+19786505,Sweden,Bromma,Bromma,Apartment,$470.00,100
+9365335,Norway,Oslo,St. Hanshaugen,Apartment,"$1,498.00",99
+7699879,Sweden,Stockholm,Norrmalm,Apartment,$900.00,100
+26939250,Sweden,Södermalm,Södermalm,Apartment,"$1,487.00",100
+29939713,Sweden,Södermalm,Södermalm,Apartment,"$1,996.00",98
+94158,Norway,Oslo,Gamle Oslo,Apartment,$999.00,91
+19889838,Sweden,Älvsjö,Älvsjö,House,"$1,497.00",100
+34758551,Sweden,Hägersten-Liljeholmen,Hägersten-Liljeholmen,Apartment,$802.00,100
+11747948,Norway,Oslo,Sentrum,Condominium,"$1,998.00",94
+18630343,Sweden,Stockholm,Skärholmen,Apartment,$802.00,93
+13003876,Norway,Oslo,Frogner,Apartment,$899.00,93
+5040401,Sweden,Stockholm,Norrmalm,Apartment,$450.00,99
+11513339,Sweden,Stockholm,Norrmalm,Apartment,"$1,213.00",80
+3195118,Sweden,Stockholm,Kungsholmen,Apartment,"$2,896.00",99
+34623947,Sweden,Hammarbyhöjden,Skarpnäck,Apartment,"$1,194.00",100
+18085106,Sweden,Stockholm,Kungsholmen,Apartment,"$1,898.00",100
+12790194,Sweden,Stockholm,Hägersten-Liljeholmen,Apartment,$646.00,98
+24331617,Sweden,Enskede-Årsta-Vantör,Enskede-Årsta-Vantör,Apartment,$900.00,100
+2462337,Sweden,Stockholm,Östermalm,Apartment,$450.00,93
+24765180,Sweden,Hägersten-Liljeholmen,Hägersten-Liljeholmen,Apartment,"$1,252.00",98
+21453589,Sweden,Norrmalm,Norrmalm,Apartment,$450.00,98
+12502450,Norway,Oslo,Frogner,Apartment,$790.00,97
+13507766,Sweden,Stockholm,Norrmalm,Loft,"$1,497.00",98
+35817551,Sweden,Bagarmossen,Skarpnäck,Apartment,$421.00,100
+28455651,Sweden,Stockholm,Enskede-Årsta-Vantör,Apartment,$391.00,96
+25727510,Sweden,Södermalm,Södermalm,Apartment,"$1,497.00",100
+314213,Norway,Oslo,Grünerløkka,Apartment,$372.00,96
+23317778,Sweden,Hammarbyhöjden,Skarpnäck,Apartment,$499.00,96
+34940474,Sweden,Solhem,Spånga-Tensta,House,"$1,996.00",80
+19487866,Sweden,Bromma,Bromma,Apartment,$499.00,100
+6504760,Norway,Oslo,St. Hanshaugen,Apartment,$499.00,100
+9113152,Sweden,Stockholm,Östermalm,Apartment,$509.00,100
+10694578,Norway,Oslo,Gamle Oslo,Condominium,$890.00,98
+6857381,Sweden,Stockholm,Norrmalm,Apartment,$998.00,100
+2650231,Sweden,Stockholm,Södermalm,Apartment,"$1,605.00",100
+36132892,Sweden,Älvsjö,Älvsjö,Apartment,"$1,096.00",100
+10065638,Sweden,Stockholm,Södermalm,Apartment,$685.00,93
+33953278,Sweden,Kungsholmen,Kungsholmen,Apartment,$753.00,100
+28838363,Sweden,Kungsholmen,Kungsholmen,Apartment,$998.00,97
+9268164,Sweden,Stockholm,Södermalm,Apartment,"$1,653.00",97
+17374765,Sweden,Stockholm,Kungsholmen,Condominium,$988.00,100
+8111790,Sweden,Stockholm,Södermalm,Apartment,$851.00,100
+15658893,Sweden,Stockholm,Södermalm,Apartment,$851.00,80
+38541543,Sweden,Södermalm,Södermalm,Condominium,"$1,174.00",100
+31276649,Sweden,Norrmalm,Norrmalm,Apartment,$567.00,85
+275790,Norway,Oslo,Sagene,Apartment,$681.00,93
+11265066,Sweden,Stockholm,Enskede-Årsta-Vantör,Apartment,$841.00,98
+12557790,Norway,Oslo,Nordstrand,Apartment,$599.00,100
+12482406,Norway,Oslo,Grünerløkka,Apartment,$599.00,100
+13076214,Sweden,Stockholm,Norrmalm,Apartment,$626.00,100
+8936300,Sweden,Stockholm,Kungsholmen,Apartment,"$1,203.00",91
+25435738,Sweden,Spånga-Tensta,Spånga-Tensta,Apartment,$303.00,87
+12987221,Norway,Oslo,Gamle Oslo,Apartment,"$2,198.00",99
+12747200,Sweden,Stockholm,Enskede-Årsta-Vantör,Apartment,$597.00,86
+6043969,Norway,Oslo,Gamle Oslo,Apartment,$754.00,97
+25836053,Sweden,Kungsholmen,Kungsholmen,Apartment,"$1,497.00",95
+13548691,Sweden,Stockholm,Skärholmen,Apartment,$372.00,91
+6736525,Sweden,Stockholm,Södermalm,Apartment,"$1,106.00",97
+13091060,Norway,Oslo,Gamle Oslo,Apartment,$418.00,100
+17930275,Sweden,Stockholm,Farsta,Apartment,$303.00,97
+7906407,Sweden,Stockholm,Södermalm,Apartment,$910.00,98
+31984694,Sweden,Norrmalm,Norrmalm,Apartment,$753.00,100
+3314494,Norway,Oslo,St. Hanshaugen,Apartment,$354.00,100
+24093208,Sweden,Östermalm,Östermalm,Apartment,$900.00,93
+19483629,Sweden,Hammarbyhöjden,Skarpnäck,Apartment,$362.00,100
+33598607,Sweden,Älvsjö,Älvsjö,House,"$1,800.00",100
+3161293,Sweden,Södermalm,Södermalm,Condominium,"$1,605.00",100
+33438122,Sweden,Hägersten-Liljeholmen,Hägersten-Liljeholmen,Villa,$294.00,97
+1647364,Sweden,Stockholm,Södermalm,Loft,"$1,399.00",98
+1454362,Sweden,Stockholm,Kungsholmen,Apartment,$450.00,98
+13373854,Sweden,Stockholm,Skärholmen,Guest suite,$489.00,91
+37694265,Sweden,Hässelby-Vällingby,Hässelby-Vällingby,Cabin,$499.00,100
+25610498,Sweden,Stockholm,Rinkeby-Kista,Apartment,$685.00,80
+4510223,Sweden,Stockholm,Södermalm,Apartment,$949.00,84
+18462530,Sweden,Stockholm,Hägersten-Liljeholmen,Townhouse,$851.00,100
+32489559,Sweden,Östermalm,Östermalm,Apartment,"$1,203.00",90
+6258498,Sweden,Stockholm,Södermalm,Apartment,"$3,004.00",100
+31108119,Sweden,Enskededalen,Enskede-Årsta-Vantör,Apartment,$685.00,98
+2148651,Norway,Oslo,St. Hanshaugen,Condominium,$599.00,98
+8377584,Norway,Oslo,Sagene,Apartment,$454.00,89
+17044365,Sweden,Stockholm,Kungsholmen,Apartment,$998.00,92
+9929791,Norway,Oslo,Nordstrand,Apartment,$336.00,91
+32746060,Sweden,Stcokholm,Norrmalm,Apartment,$362.00,100
+36145586,Sweden,Östermalm,Östermalm,Loft,"$4,403.00",100
+6230812,Norway,Oslo,Grünerløkka,Apartment,$572.00,100
+23765662,Sweden,Bromma,Bromma,House,"$2,084.00",100
+4655108,Norway,Oslo,Gamle Oslo,Apartment,$754.00,86
+3352265,Norway,Oslo,Majorstuen,Apartment,$572.00,98
+19596249,Sweden,Södermalm,Södermalm,Apartment,"$1,301.00",94
+13455447,Sweden,Södermalm,Södermalm,Apartment,$851.00,96
+29578235,Sweden,Stockholm,Östermalm,Apartment,"$1,849.00",80
+34461961,Sweden,Södermalm,Södermalm,Apartment,$352.00,100
+8915125,Sweden,Stockholm,Hässelby-Vällingby,Apartment,$303.00,98
+32717960,Sweden,Östermalm,Östermalm,Apartment,$949.00,100
+37900778,Sweden,Östermalm,Östermalm,Apartment,"$1,203.00",85
+32089695,Sweden,Södermalm,Södermalm,Condominium,"$1,399.00",100
+35668597,Sweden,Södermalm,Södermalm,Apartment,"$1,575.00",100
+2444934,Norway,Oslo,Gamle Oslo,Condominium,$499.00,97
+14179788,Sweden,Stockholm,Skarpnäck,Apartment,$890.00,100
+2917399,Sweden,Stockholm,Södermalm,Apartment,"$1,507.00",100
+3654842,Sweden,Stockholm,Södermalm,Apartment,$988.00,95
+4651133,Sweden,Stockholm,Södermalm,Apartment,$597.00,93
+23320114,Sweden,Stockholm,Bromma,House,"$1,497.00",100
+37100402,Sweden,Södermalm,Södermalm,Apartment,"$1,605.00",100
+20506914,Sweden,Södermalm,Södermalm,Apartment,$646.00,100
+13037880,Norway,Oslo,Sagene,Apartment,$599.00,98
+30177569,Sweden,Södermalm,Södermalm,Apartment,"$1,810.00",96
+10939355,Norway,Oslo,Sagene,Apartment,$400.00,100
+22622919,Sweden,Hägersten-Liljeholmen,Hägersten-Liljeholmen,Apartment,$401.00,100
+26712784,Sweden,Ladugårdsgärdet,Östermalm,Apartment,"$1,017.00",60
+560308,Sweden,Stockholm,Bromma,Apartment,"$1,761.00",92
+28038229,Sweden,Norrmalm,Norrmalm,Apartment,"$3,796.00",99
+29578331,Sweden,Stockholm,Östermalm,Apartment,"$1,203.00",90
+11409869,Sweden,Stockholm,Enskede-Årsta-Vantör,Apartment,$802.00,97
+24767702,Sweden,Stockholm,Hägersten-Liljeholmen,Apartment,"$1,203.00",100
+8129911,Norway,Oslo,St. Hanshaugen,Apartment,$854.00,100
+35190363,Sweden,Norrmalm,Norrmalm,Apartment,$998.00,100
+14480472,Sweden,Stockholm,Östermalm,Apartment,$998.00,96
+10628514,Norway,Oslo,Sagene,Apartment,$817.00,93
+24306342,Sweden,Östermalm,Östermalm,Apartment,"$1,096.00",80
+740334,Norway,Oslo,Grünerløkka,Hostel,$400.00,80
+9441725,Norway,Oslo,Sentrum,Apartment,"$1,153.00",95
+35349012,Sweden,Södermalm,Södermalm,Apartment,"$1,399.00",90
+9819279,Norway,Oslo,Sentrum,Apartment,$999.00,80
+14280421,Sweden,Stockholm,Enskede-Årsta-Vantör,Apartment,$352.00,95
+28899410,Sweden,Kungsholmen,Kungsholmen,Apartment,$401.00,90
+34922416,Sweden,Norrmalm,Norrmalm,Apartment,$489.00,85
+6965935,Norway,Oslo,Nordre Aker,Apartment,$654.00,83
+6196020,Sweden,Stockholm,Norrmalm,Apartment,"$1,066.00",92
+17330236,Sweden,Stockholm,Bromma,Apartment,$597.00,92
+9256396,Norway,Oslo,Gamle Oslo,Apartment,$554.00,100
+29818941,Sweden,Hägersten-Liljeholmen,Hägersten-Liljeholmen,Apartment,$401.00,90
+17791458,Sweden,Stockholm,Södermalm,Apartment,$597.00,100
+18652498,Sweden,Stockholm,Bromma,Apartment,"$1,399.00",93
+35291786,Sweden,Enskededalen,Skarpnäck,Townhouse,"$1,203.00",100
+16142460,Sweden,Stockholm,Södermalm,Apartment,"$1,262.00",96
+18558880,Sweden,Stockholm,Södermalm,Apartment,"$1,497.00",100
+6536970,Norway,Oslo,Gamle Oslo,Apartment,"$1,199.00",93
+451155,Sweden,Stockholm,Enskede-Årsta-Vantör,House,"$1,497.00",95
+6894533,Sweden,Stockholm,Skarpnäck,Apartment,$744.00,100
+7036715,Norway,Oslo,Grünerløkka,Apartment,$899.00,94
+2902290,Sweden,Stockholm,Enskede-Årsta-Vantör,Apartment,$401.00,95
+23348405,Sweden,Stockholm,Södermalm,Apartment,"$1,047.00",67
+3414884,Norway,Oslo,Majorstuen,Apartment,"$2,497.00",97
+19856472,Sweden,Enskede-Årsta-Vantör,Enskede-Årsta-Vantör,Apartment,"$1,194.00",95
+12828993,Sweden,Stockholm,Södermalm,Apartment,$597.00,91
+19765573,Sweden,Hägersten-Liljeholmen,Hägersten-Liljeholmen,Apartment,$382.00,100
+37475620,Sweden,Norrmalm,Norrmalm,Apartment,$900.00,100
+8129486,Norway,Oslo,Majorstuen,Apartment,$554.00,90
+22450993,Sweden,Norrmalm,Norrmalm,Apartment,$352.00,100
+36474426,Sweden,Södermalm,Skarpnäck,Apartment,$988.00,80
+14004831,Sweden,Stockholm,Södermalm,Apartment,$450.00,80
+24150722,Sweden,Östermalm,Östermalm,Apartment,"$3,992.00",100
+5361051,Norway,Oslo,Gamle Oslo,Apartment,"$1,998.00",100
+24772922,Sweden,Kungsholmen,Kungsholmen,Apartment,$783.00,100
+17418644,Sweden,Stockholm,Hägersten-Liljeholmen,House,"$1,497.00",100
+5898459,Norway,Oslo,St. Hanshaugen,Apartment,$999.00,94
+3725413,Sweden,Stockholm,Kungsholmen,Apartment,$656.00,92
+35799499,Sweden,Södermalm,Södermalm,Apartment,$616.00,100
+24423245,Sweden,Enskede-Årsta-Vantör,Enskede-Årsta-Vantör,Apartment,$254.00,98
+25219518,Sweden,Södermalm,Södermalm,Apartment,$998.00,100
+6666664,Sweden,Stockholm,Östermalm,Apartment,"$1,154.00",100
+28574153,Sweden,Stockholm,Enskede-Årsta-Vantör,Apartment,$303.00,100
+3406751,Sweden,Stockholm,Norrmalm,Apartment,"$1,800.00",100
+15015871,Sweden,Stockholm,Södermalm,Apartment,$646.00,100
+5907890,Sweden,Stockholm,Kungsholmen,Condominium,$548.00,99
+7045719,Norway,Oslo,Gamle Oslo,Apartment,"$1,398.00",100
+19486543,Sweden,Stockholm,Södermalm,Apartment,$900.00,91
+19776619,Sweden,Norrmalm,Norrmalm,Apartment,"$1,996.00",100
+32931008,Sweden,Norrmalm,Norrmalm,Apartment,$499.00,100
+4560960,Norway,Oslo,Grünerløkka,Apartment,$999.00,100
+26634533,Sweden,Norrmalm,Norrmalm,Apartment,"$2,505.00",100
+19158238,Sweden,Enskede-Årsta-Vantör,Enskede-Årsta-Vantör,Townhouse,"$1,986.00",97
+35793787,Sweden,Södermalm,Södermalm,Apartment,"$1,869.00",100
+22174009,Sweden,Norrmalm,Norrmalm,Apartment,$597.00,94
+7726123,Sweden,Stockholm,Hägersten-Liljeholmen,House,"$1,399.00",100
+35313067,Sweden,Enskede-Årsta-Vantör,Enskede-Årsta-Vantör,Apartment,"$1,497.00",70
+11960750,Sweden,Stockholm,Kungsholmen,Apartment,$802.00,95
+11267460,Norway,Oslo,Sagene,Apartment,$454.00,100
+30780900,Sweden,Solhem,Spånga-Tensta,Villa,"$1,497.00",70
+5005095,Norway,Oslo,Grünerløkka,Apartment,$372.00,98
+11886139,Sweden,Stockholm,Östermalm,Apartment,$382.00,95
+9096014,Norway,Oslo,Gamle Oslo,Apartment,$300.00,90
+6907181,Norway,Oslo,St. Hanshaugen,Apartment,$499.00,60
+16978268,Sweden,Stockholm,Enskede-Årsta-Vantör,Apartment,"$1,252.00",100
+33679764,Sweden,Enskede-Årsta-Vantör,Enskede-Årsta-Vantör,Apartment,$372.00,100
+24315385,Sweden,Norrmalm,Norrmalm,Apartment,$577.00,100
+37383440,Sweden,Östermalm,Östermalm,Apartment,$333.00,100
+5076178,Norway,Oslo,Sagene,Apartment,$654.00,97
+21918665,Sweden,Södermalm,Södermalm,Apartment,$303.00,96
+6355009,Sweden,Stockholm,Norrmalm,Apartment,$626.00,90
+13030672,Sweden,Stockholm,Södermalm,Apartment,$802.00,100
+23726888,Sweden,Norrmalm,Norrmalm,Apartment,$851.00,100
+13965700,Sweden,Stockholm,Kungsholmen,Apartment,"$2,994.00",100
+10956997,Norway,Oslo,Gamle Oslo,Apartment,$854.00,95
+5988259,Norway,Oslo,Sagene,Apartment,$554.00,95
+9197547,Sweden,Stockholm,Södermalm,Condominium,$548.00,100
+23749183,Sweden,Södermalm,Södermalm,Apartment,"$1,751.00",100
+259025,Sweden,Stockholm,Rinkeby-Kista,Townhouse,$196.00,89
+8368772,Norway,Oslo,Majorstuen,Apartment,$754.00,99
+4502021,Norway,Oslo,Grünerløkka,Apartment,$799.00,96
+13477626,Sweden,Stockholm,Södermalm,Apartment,"$1,497.00",100
+25341716,Sweden,Hägersten-Liljeholmen,Hägersten-Liljeholmen,Apartment,"$1,057.00",100
+3757322,Norway,Oslo,Gamle Oslo,Apartment,$554.00,96
+17666349,Sweden,Stockholm,Älvsjö,House,"$1,800.00",90
+7113864,Sweden,Stockholm,Södermalm,Apartment,"$1,096.00",80
+34429537,Sweden,Kungsholmen,Kungsholmen,Apartment,"$1,096.00",98
+3302428,Sweden,Stockholm,Södermalm,Apartment,$910.00,92
+7034642,Sweden,Stockholm,Södermalm,Apartment,"$3,004.00",100
+18427792,Sweden,Stockholm,Södermalm,Apartment,$724.00,99
+4855771,Sweden,Stockholm,Kungsholmen,Apartment,$597.00,95
+10593587,Norway,Grünerløkka,Grünerløkka,Apartment,$754.00,100
+23726104,Sweden,Kungsholmen,Kungsholmen,Apartment,$802.00,100
+18399755,Sweden,Stockholm,Hägersten-Liljeholmen,Apartment,$802.00,95
+31943145,Sweden,Södermalm,Södermalm,Apartment,"$1,194.00",83
+31080590,Sweden,Södermalm,Södermalm,Apartment,$450.00,96
+3475703,Sweden,Stockholm,Södermalm,Apartment,$900.00,97
+27700937,Sweden,Enskede-Årsta-Vantör,Enskede-Årsta-Vantör,Apartment,$303.00,88
+34650934,Sweden,Hässelby Strand,Hässelby-Vällingby,Serviced apartment,$646.00,96
+12539831,Norway,Oslo,Grünerløkka,Apartment,"$5,003.00",100
+23622478,Sweden,Farsta,Farsta,Townhouse,$528.00,98
+10579009,Sweden,Stockholm,Södermalm,Apartment,"$1,350.00",94
+35362677,Sweden,Hässelby-Vällingby,Hässelby-Vällingby,Apartment,$401.00,97
+13654173,Sweden,Stockholm,Kungsholmen,Apartment,$714.00,100
+34617726,Sweden,Kungsholmen,Kungsholmen,Apartment,"$1,888.00",100
+25039956,Sweden,Södermalm,Södermalm,Apartment,"$1,203.00",98
+2713653,Sweden,Stockholm,Kungsholmen,Apartment,$802.00,95
+4454296,Sweden,Stockholm,Östermalm,Loft,"$5,674.00",100
+29897236,Sweden,Stockholm,Norrmalm,Apartment,$802.00,100
+5388388,Sweden,Stockholm,Norrmalm,Apartment,$753.00,90
+19096294,Sweden,Södermalm,Södermalm,Apartment,"$1,194.00",100
+2797652,Sweden,Stockholm,Östermalm,Apartment,$998.00,96
+25048621,Sweden,Södermalm,Södermalm,Apartment,$998.00,100
+9213061,Norway,Oslo,St. Hanshaugen,Apartment,"$1,199.00",98
+12148845,Sweden,Stockholm,Enskede-Årsta-Vantör,Townhouse,$489.00,95
+2965524,Norway,Oslo,Majorstuen,Apartment,$390.00,95
+10037645,Sweden,Stockholm,Norrmalm,Apartment,$998.00,100
+13441207,Sweden,Stockholm,Östermalm,Apartment,"$1,761.00",100
+26724695,Sweden,Södermalm,Södermalm,Apartment,$900.00,96
+10788232,Sweden,Stockholm,Älvsjö,House,"$1,526.00",100
+2241162,Sweden,Stockholm,Östermalm,Apartment,"$1,605.00",100
+9711084,Norway,Oslo,Grünerløkka,Apartment,"$1,299.00",100
+8592844,Norway,Oslo,Bjerke,Apartment,"$1,199.00",97
+35326960,Sweden,Hägersten-Liljeholmen,Hägersten-Liljeholmen,Apartment,$597.00,96
+42932,Norway,Oslo,Frogner,Apartment,"$1,925.00",97
+35835250,Sweden,Enskede-Årsta-Vantör,Enskede-Årsta-Vantör,Apartment,"$1,145.00",100
+13533991,Sweden,Stockholm,Bromma,Apartment,$783.00,99
+385701,Sweden,Stockholm,Farsta,Townhouse,$792.00,80
+7199782,Sweden,Stockholm,Södermalm,Apartment,"$1,605.00",91
+35345170,Sweden,Enskededalen,Enskede-Årsta-Vantör,Apartment,$714.00,96
+2491391,Sweden,Stockholm,Södermalm,Apartment,"$1,203.00",97
+15517550,Sweden,Stockholm,Rinkeby-Kista,Apartment,$254.00,95
+16392668,Sweden,Stockholm,Östermalm,Apartment,$949.00,90
+24800910,Sweden,Södermalm,Södermalm,Apartment,$753.00,97
+34505163,Sweden,Norrmalm,Norrmalm,Apartment,"$1,800.00",93
+31708003,Sweden,Östermalm,Östermalm,Apartment,"$1,947.00",95
+32493353,Sweden,Hammarbyhöjden,Skarpnäck,Apartment,"$1,145.00",100
+6624086,Sweden,Stockholm,Hägersten-Liljeholmen,Apartment,"$1,399.00",87
